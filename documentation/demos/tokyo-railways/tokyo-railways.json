@@ -12,10 +12,10 @@
   "elements" : {
     "nodes" : [ {
       "data" : {
-        "id" : "8220",
+        "id" : "1",
         "station_name" : "Fiber 1",
         "close_ymd" : "",
-        "lon" : 139.866875,
+        "lon" : 1,
         "post" : "",
         "e_status" : 0,
         "SUID" : 8220,
@@ -24,10 +24,10 @@
         "line_cd" : 99340,
         "selected" : false,
         "open_ymd" : "",
-        "name" : "9934001",
+        "name" : "1",
         "pref_name" : "00x01",
-        "shared_name" : "9934001",
-        "lat" : 35.750932,
+        "shared_name" : "1",
+        "lat" : 2,
         "y" : -357509.32,
         "x" : 1398668.75
       },
@@ -39,10 +39,10 @@
     },
     {
       "data" : {
-        "id" : "8220",
+        "id" : "2",
         "station_name" : "Fiber 1",
         "close_ymd" : "",
-        "lon" : 139.866875,
+        "lon" : 1,
         "post" : "",
         "e_status" : 0,
         "SUID" : 8220,
@@ -51,10 +51,10 @@
         "line_cd" : 99340,
         "selected" : false,
         "open_ymd" : "",
-        "name" : "9934001",
-        "pref_name" : "00x01",
-        "shared_name" : "9934001",
-        "lat" : 35.750932,
+        "name" : "2",
+        "pref_name" : "00x02",
+        "shared_name" : "2",
+        "lat" : 2,
         "y" : -357509.32,
         "x" : 1398668.75
       },
